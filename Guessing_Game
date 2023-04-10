@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
-public class Guess_Game {
+public class Guessing_Game {
     public static void main(String args[]) {  
         while(true){
            
